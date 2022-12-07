@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **swift language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ammyy9908/](https://github.com/Ammyy9908/)
+- 👨‍💻 All of my projects are available at [https://github.com/Ammyy9908/](https://github.com/Hemanthr3/)
 
 - 💬 Ask me about **react,express,mongodb**
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ammysumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ammysumit" height="30" width="40" /></a>
-<a href="https://dev.to/ammyy9908" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ammyy9908" height="30" width="40" /></a>
+<a href="https://codepen.io/Hemanthr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ammysumit" height="30" width="40" /></a>
+<a href="https://dev.to/Hemanthr3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ammyy9908" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumitbighaniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-kumar-097a3a204" height="30" width="40" /></a>
 <a href="https://instagram.com/sumitbighaniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumitbighaniya" height="30" width="40" /></a>
 </p>
