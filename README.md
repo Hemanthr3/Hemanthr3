@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hemanth</h1>
 
 
-<h3 align="center">A passionate fullstack developer from India in MERN.</h3>
+<h3 align="center">A passionate fullstack developer from India specialized in MERN stack.</h3>
 
 
 
-- 🔭 I’m currently working on cloning web applications in nextjs with tailwind
+- 🔭 I’m currently working on building platform for KodNest and cloning web applications in nextjs with tailwind.
 
 - 🌱 I’m currently learning **javascript language**
 
