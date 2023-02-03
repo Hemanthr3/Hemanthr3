@@ -5,19 +5,19 @@
 
 
 
-- 🔭 I’m currently working on [js-pool](https://github.com/Ammyy9908/js-pool)
+- 🔭 I’m currently working on cloning web applications in nextjs with tailwind
 
-- 🌱 I’m currently learning **swift language**
+- 🌱 I’m currently learning **javascript language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hemanthr3/](https://github.com/Hemanthr3/)
 
-- 💬 Ask me about **react,express,mongodb**
+- 💬 Ask me about **react,nextjs,tailwind**
 
 - 📫 How to reach me **hemanthramanjaneya505@gmail.com**
 
-- 📄 Know about my experiences [https://sumit.engineer](https://sumit.engineer)
+- 📄 Know about my experiences 
 
-- ⚡ Fun fact **I am moody.**
+- ⚡ Fun fact **I am an engineer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
