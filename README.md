@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on building platform for KodNest and cloning web applications in nextjs with tailwind.
+- 🔭 I’m currently working on building platform for KodNest and cloning web applications in Next.js with tailwindcss.
 
 - 🌱 I’m currently learning **javascript language**
 
